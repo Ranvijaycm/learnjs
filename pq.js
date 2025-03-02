@@ -25,4 +25,4 @@ for (let coffer of price)
 }
 console.log(price);
 
-/* question three 
+/* question three */
